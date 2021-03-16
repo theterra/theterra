@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on webgl/HTML video players
 - 💬 Ask me about REACT
 - 📫 How to reach me: https://www.linkedin.com/in/prudhvid/
-- ⚡ Fun fact: We are the middle childre of history
+- ⚡ Fun fact: We are the middle children of history
 -->
